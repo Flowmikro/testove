@@ -15,3 +15,7 @@ cd testove
 ```
 pip install -r requirements.txt
 ```
+```
+python manage.py tests   
+python manage.py runserver  
+```
