@@ -10,7 +10,7 @@ git clone  https://github.com/Flowmikro/testove.git
 ```
 cd testove
 ```
-Активируйте виртульную среду   
+Активируйте виртуальную среду   
 далее
 ```
 pip install -r requirements.txt
