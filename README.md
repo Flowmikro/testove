@@ -10,3 +10,6 @@ git clone  https://github.com/Flowmikro/testove.git
 ```
 cd testove
 ```
+```
+pip install -r requirements.txt
+```
